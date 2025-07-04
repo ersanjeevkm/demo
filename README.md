@@ -7,4 +7,10 @@ Error in intent classification: Error code: 429 - {'error': {'message': 'You exc
 Tool Used: RAG
 --------------------------------------------------
 Answer:
-I couldn't find any relevant information in the call transcripts to answer your question.
+(venv) sanjeev@sanjeevpc:~/workspace/clari_round2-assignment$ python run.py
+Initializing Sales Analysis Agent...
+Your question: get the summary of 1_demo_call.txt
+
+Processing your query...
+
+Error processing query: '>' not supported between instances of 'NoneType' and 'int'
