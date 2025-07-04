@@ -21,3 +21,9 @@ Tool Used: SQL
 --------------------------------------------------
 Answer:
 Error: Only SELECT queries are allowed for security reasons.
+
+Generated SQL Query: ```sql
+SELECT c.filename AS call_filename
+FROM calls c
+LIMIT 100;
+```
