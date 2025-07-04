@@ -9,4 +9,4 @@ Tool Used: RAG
 Answer:
 I couldn't find any relevant information in the call transcripts to answer your question.
 
-OPENAI_API_KEY=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
+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
